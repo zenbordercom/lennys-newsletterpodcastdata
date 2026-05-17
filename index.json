@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-05-17T00:03:55.455187+00:00",
+  "generated_at": "2026-05-17T18:01:59.892248+00:00",
   "podcasts": [
+    {
+      "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
+      "filename": "podcasts/caitlin-kalinowski.md",
+      "word_count": 19355,
+      "date": "2026-05-17",
+      "description": "Why we’re at the beginning of the AI hardware boom, covering product design, consumer products, and engineering tradeoffs.",
+      "guest": "Caitlin Kalinowski",
+      "post_url": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the"
+    },
     {
       "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
       "filename": "podcasts/eric-ries-2.md",
@@ -428,15 +437,6 @@
       "description": "Products as organisms, the death of org charts, and why agents will outnumber employees by 2026, covering AI product work, product design, and engineering tradeoffs.",
       "guest": "Asha Sharma",
       "youtube_url": "https://www.youtube.com/watch?v=J9UWaltU-7Q"
-    },
-    {
-      "title": "Inside the expert network training every frontier AI model | Garrett Lord (Handshake CEO)",
-      "filename": "podcasts/garrett-lord.md",
-      "word_count": 12775,
-      "date": "2025-08-24",
-      "description": "Inside the expert network training every frontier AI model, covering AI product work, product design, and team leadership.",
-      "guest": "Garrett Lord",
-      "youtube_url": "https://www.youtube.com/watch?v=0qdR-XwHJ9o"
     }
   ],
   "newsletters": [
