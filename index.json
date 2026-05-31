@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-05-24T18:01:45.139002+00:00",
+  "generated_at": "2026-05-31T16:01:06.729226+00:00",
   "podcasts": [
+    {
+      "title": "A rational conversation on where AI is actually going | Benedict Evans",
+      "filename": "podcasts/benedict-evans.md",
+      "word_count": 16316,
+      "date": "2026-05-31",
+      "description": "Where AI is actually going, covering AI product work, product design, and engineering tradeoffs.",
+      "guest": "Benedict Evans",
+      "post_url": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where"
+    },
     {
       "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
       "filename": "podcasts/dan-shipper-2.md",
@@ -428,15 +437,6 @@
       "description": "How Devin replaces your junior engineers with infinite AI interns that never sleep, covering AI product work, product design, and engineering tradeoffs.",
       "guest": "Scott Wu",
       "youtube_url": "https://www.youtube.com/watch?v=7m xKFqSxTo"
-    },
-    {
-      "title": "How we restructured Airtable’s entire org for AI | Howie Liu (co-founder and CEO)",
-      "filename": "podcasts/howie-liu.md",
-      "word_count": 18139,
-      "date": "2025-08-31",
-      "description": "How we restructured Airtable’s entire org for AI, covering AI product work, product design, and strategic decision-making.",
-      "guest": "Howie Liu",
-      "youtube_url": "https://www.youtube.com/watch?v=GT0jtVjRy2E"
     }
   ],
   "newsletters": [
