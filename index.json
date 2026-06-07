@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-06-03T00:04:29.518265+00:00",
+  "generated_at": "2026-06-07T14:04:23.577253+00:00",
   "podcasts": [
+    {
+      "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+      "filename": "podcasts/tony-fadell.md",
+      "word_count": 18180,
+      "date": "2026-06-07",
+      "description": "Building taste, judgment, and creativity in the AI era, covering product design, strategic decision-making, and team leadership.",
+      "guest": "Tony Fadell",
+      "post_url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on"
+    },
     {
       "title": "A rational conversation on where AI is actually going | Benedict Evans",
       "filename": "podcasts/benedict-evans.md",
@@ -428,15 +437,6 @@
       "description": "Why founders fail and why you need to run toward fear (a16z co-founder), covering team leadership, product design, and product strategy and execution.",
       "guest": "Ben Horowitz",
       "youtube_url": "https://www.youtube.com/watch?v=KPxTekxQjzc"
-    },
-    {
-      "title": "How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (Cognition CEO)",
-      "filename": "podcasts/scott-wu.md",
-      "word_count": 19675,
-      "date": "2025-09-08",
-      "description": "How Devin replaces your junior engineers with infinite AI interns that never sleep, covering AI product work, product design, and engineering tradeoffs.",
-      "guest": "Scott Wu",
-      "youtube_url": "https://www.youtube.com/watch?v=7m xKFqSxTo"
     }
   ],
   "newsletters": [
